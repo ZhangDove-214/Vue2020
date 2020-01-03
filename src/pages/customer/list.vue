@@ -1,6 +1,6 @@
 <template>
     <div>
-        顾客管理
+        <!-- 顾客管理 -->
         <el-button type="success" @click="toAddHandler">添加</el-button>
         <el-button type="danger" >删除</el-button>
 
